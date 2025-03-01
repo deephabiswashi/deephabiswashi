@@ -1,6 +1,6 @@
 # Hello, I'm Deep Habiswashi! 👋
 
-![Banner](screenshots/coding_vibe.gif)
+![Banner](screenshots/curious_tech.gif)
 
 ## About Me
 
@@ -82,17 +82,6 @@ Here are some of my notable projects:
 **Technologies:** Python, Pandas, Matplotlib
 
 **Repository:** [COVID-19 Data Analysis](https://github.com/deephabiswashi/covid19-data-analysis)
-
-## Achievements
-
-- Participated in the AWS Game Builder Challenge, inquiring about team participation details. :contentReference[oaicite:0]{index=0}
-
-## Blog Posts
-
-I enjoy writing about technology and my experiences. Here are some of my recent posts:
-
-- [Understanding the Basics of Machine Learning](https://scorchedwithwords.blogspot.com/2023/01/understanding-basics-of-machine-learning.html)
-- [Getting Started with Web Development Using Next.js](https://scorchedwithwords.blogspot.com/2023/02/getting-started-with-web-development.html)
 
 ## Connect with Me
 
