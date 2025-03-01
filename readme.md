@@ -4,10 +4,9 @@
 
 ## About Me
 
-I am a 3rd-year Electronics & Computer Science Engineering student at KIIT University, currently residing in Barrackpore, Kolkata-700123. I have a strong foundation in data science, machine learning, and statistical analysis. My passion lies in transforming raw data into actionable insights and building intelligent systems that address real-world challenges. I am skilled in developing end-to-end data pipelines, creating predictive models, and deploying scalable AI solutions.
+I am a 3rd-year Electronics & Computer Science Engineering student at KIIT University, currently residing in Bhubaneswar, Odisha. I have a strong foundation in data science, machine learning, and statistical analysis. My passion lies in transforming raw data into actionable insights and building intelligent systems that address real-world challenges. I am skilled in developing end-to-end data pipelines, creating predictive models, and deploying scalable AI solutions.
 
 - 📧 Email: deephabiswashi@gmail.com
-- 📞 Phone: +91 8697222299
 - 🌐 [GitHub](https://github.com/deephabiswashi)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deep-habiswashi-54492b295/)
 - 🐦 [Twitter](https://twitter.com/Habiswashi_Deep)
