@@ -248,14 +248,13 @@ H --> I[Live Captions / Output]
 
 ---
 
-# ⏱ Coding Activity (WakaTime)
+# 🔥 GitHub Streak Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=deephabiswashi&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deephabiswashi&theme=radical" />
 
 </p>
-
 ---
 
 # 🏆 GitHub Achievements
