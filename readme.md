@@ -1,100 +1,310 @@
-# Hello, I'm Deep Habiswashi! 👋
+# Hi, I'm Deep Habiswashi 👋
 
-![Banner](screenshots/curious_tech.gif)
+<!-- 3D Animated Header -->
 
-## About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Deep%20Habiswashi&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-I am a 4th-year Electronics & Computer Science Engineering student at KIIT University, currently residing in Bhubaneswar, Odisha. I have a strong foundation in data science, machine learning, and statistical analysis. My passion lies in transforming raw data into actionable insights and building intelligent systems that address real-world challenges. I am skilled in developing end-to-end data pipelines, creating predictive models, and deploying scalable AI solutions.
+<p align="center">
+  <img src="screenshots/curious_tech.gif" width="720"/>
+</p>
 
-- 📧 Email: deephabiswashi@gmail.com
-- 🌐 [GitHub](https://github.com/deephabiswashi)
-- 💼 [LinkedIn](https://www.linkedin.com/in/deep-habiswashi-54492b295/)
-- 🐦 [Twitter](https://twitter.com/Habiswashi_Deep)
-- 📸 [Instagram](https://instagram.com/night_bred)
-- 📝 [Blog](https://scorchedwithwords.blogspot.com/)
+<p align="center">
+AI / ML Engineer • Software Engineer • Building Intelligent Systems
+</p>
 
-## Skills
+---
 
-**Languages:**
-- ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
-- ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-- ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=html5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
+# 👨‍💻 About Me
 
-**Web Development:**
-- ![Next.js](https://img.shields.io/badge/-Next.js-blue?style=flat-square&logo=next.js)
-- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+I am a **final-year B.Tech student in Electronics & Computer Science Engineering at KIIT University, Bhubaneswar**.
 
-**Data Science & Machine Learning:**
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=flat-square&logo=tensorflow)
-- ![Keras](https://img.shields.io/badge/-Keras-blue?style=flat-square&logo=keras)
-- ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)
-- ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)
-- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib)
-- Regression, Classification, Clustering, Decision Trees
+My work focuses on building **AI systems, real-time machine learning pipelines, generative models, and scalable backend infrastructure**.
 
-**Data Visualization:**
-- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib)
-- ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat-square&logo=seaborn)
-- ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau)
+I enjoy designing **end-to-end intelligent systems** — from model research and training to production deployment.
 
-**Cloud Platforms:**
-- ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-blue?style=flat-square&logo=google-cloud)
-- ![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazon-aws)
+💡 Current Interests
 
-**Databases:**
-- ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite)
+* Artificial Intelligence
+* Machine Learning Systems
+* Generative AI
+* Natural Language Processing
+* Real-time AI pipelines
+* Backend engineering for ML systems
 
-**Development Tools:**
-- ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
-- ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
-- ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)
+---
 
-**Other Skills:**
-- Kali Linux
-- Ethical Hacking
+# 👀 Profile Visitors
 
-**Languages Spoken:**
-- English
-- Hindi
-- Bengali
+<p align="center">
 
-## Projects
+<img src="https://komarev.com/ghpvc/?username=deephabiswashi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-Here are some of my notable projects:
+</p>
 
-### BookScraper-ML
+---
 
-**Description:** A Python-based web scraping project that extracts book data from "Books to Scrape," stores it in a database, and uses pretrained NLP models for summarization, classification, and sentiment analysis.
+# 🌐 Connect With Me
 
-**Technologies:** Python, BeautifulSoup, NLP
+* 📧 Email: [deephabiswashi@gmail.com](mailto:deephabiswashi@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/deep-habiswashi-54492b295/](https://www.linkedin.com/in/deep-habiswashi-54492b295/)
+* 🌐 GitHub: [https://github.com/deephabiswashi](https://github.com/deephabiswashi)
+* 🐦 Twitter: [https://twitter.com/Habiswashi_Deep](https://twitter.com/Habiswashi_Deep)
+* 📸 Instagram: [https://instagram.com/night_bred](https://instagram.com/night_bred)
+* 📝 Blog: [https://scorchedwithwords.blogspot.com/](https://scorchedwithwords.blogspot.com/)
 
-**Repository:** [BookScraper-ML](https://github.com/deephabiswashi/bookscraper-ml)
+---
 
-### COVID-19 Data Analysis
+# 🚀 Tech Stack
 
-**Description:** An analysis of COVID-19 data to track the spread and impact of the virus using data visualization techniques.
+## Programming Languages
 
-**Technologies:** Python, Pandas, Matplotlib
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
 
-**Repository:** [COVID-19 Data Analysis](https://github.com/deephabiswashi/covid19-data-analysis)
+## AI / Machine Learning
 
-## Connect with Me
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-Let's connect on social media:
+* Deep Learning
+* Neural Networks
+* Computer Vision
+* Transfer Learning
+* Generative Adversarial Networks (DCGAN, CGAN, BigGAN, StarGAN)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deep-habiswashi-54492b295/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/Habiswashi_Deep)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/night_bred)
+## Natural Language Processing
 
-## GitHub Stats
+* LangChain
+* Ollama
+* OpenAI Whisper
+* spaCy
+* Named Entity Recognition (NER)
+* Retrieval Augmented Generation (RAG)
+* Language Identification
+* AI4Bharat IndicConformer
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deephabiswashi&show_icons=true&theme=radical)
+## Data Science
 
-## Extra-Curricular Activities
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-- Member of the drafting committee, NSS KIIT.
+* NumPy
+* Pandas
+* Feature Engineering
+* Statistical Analysis
+* Model Evaluation
 
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+* Flask
+* REST APIs
+* AJAX
+* Backend Architecture
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+* MongoDB
+* NoSQL
+* Database Design
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+---
+
+# 🤖 AI System Architecture
+
+```mermaid
+flowchart LR
+
+A[Live Audio Stream]
+
+A --> B(Language Identification)
+
+B --> C{Model Switch}
+
+C -->|English| D[OpenAI Whisper]
+C -->|Indic Languages| E[IndicConformer]
+
+D --> F[Transcription]
+E --> F
+
+F --> G[spaCy Named Entity Recognition]
+
+G --> H[Translation Pipeline]
+
+H --> I[Live Captions / Output]
+```
+
+---
+
+# 🧠 Key Projects
+
+## 🌍 Real-Time Multilingual AI Translation System
+
+**Tech:** Python • Whisper • spaCy • LangChain • IndicConformer
+
+* Built a **real-time AI translation pipeline for live streaming platforms**.
+* Integrated **Language Identification, ASR, and Neural Translation**.
+* Implemented **dynamic switching between Whisper and IndicConformer models**.
+* Built **NER-preserving translation to retain proper nouns across languages**.
+
+🔗 [https://github.com/deephabiswashi/Vasha-AI](https://github.com/deephabiswashi/Vasha-AI)
+
+---
+
+## 🗄 MongoDB Management Platform
+
+**Tech:** Flask • MongoDB • AJAX • Docker
+
+* Developed **full-stack MongoDB management platform** with CRUD operations.
+* Implemented **Excel/CSV import-export for large datasets**.
+* Built **REST API backend with Flask**.
+* Containerized system using **Docker**.
+
+🔗 [https://github.com/deephabiswashi/mongodb-manager-web-app](https://github.com/deephabiswashi/mongodb-manager-web-app)
+
+---
+
+## 🎭 EmotionGANverse — Multi-GAN Image Generation Framework
+
+**Tech:** TensorFlow • OpenCV • GANs
+
+* Implemented **DCGAN, CGAN, BigGAN, StarGAN architectures**.
+* Built unified **training pipelines for facial emotion synthesis**.
+* Trained on **FER-2013 dataset (35k+ images)**.
+
+---
+
+## 📚 RAG Conversational Document Chatbot
+
+**Tech:** LangChain • Ollama • Flask
+
+* Built chatbot capable of answering questions from **PDF, Word, and Excel files**.
+* Implemented **vector embeddings + RAG pipeline**.
+
+---
+
+## 🧠 EEG Seizure Detection System
+
+**Tech:** TensorFlow • CNN • VGG16
+
+* Developed EEG preprocessing pipeline using **wavelet transforms**.
+* Built **1D CNN classifier with transfer learning**.
+
+---
+
+# 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/deephabiswashi/Vasha-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deephabiswashi&repo=Vasha-AI&theme=radical" />
+</a>
+
+<a href="https://github.com/deephabiswashi/mongodb-manager-web-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deephabiswashi&repo=mongodb-manager-web-app&theme=radical" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deephabiswashi&show_icons=true&theme=radical" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deephabiswashi&layout=compact&theme=radical" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deephabiswashi&theme=react-dark" />
+
+</p>
+
+---
+
+# ⏱ Coding Activity (WakaTime)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=deephabiswashi&theme=radical" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deephabiswashi&theme=radical&row=1&column=6" />
+
+</p>
+
+---
+
+# 🧩 AI / ML Research Focus
+
+* Generative AI
+* Multilingual AI systems
+* Speech Recognition
+* Machine Learning Infrastructure
+* Real-time AI pipelines
+* LLM applications
+
+---
+
+# 🏅 Certifications & Achievements
+
+* Google — Foundations: Data, Data, Everywhere
+* IBM — Generative AI: Introduction & Applications
+* IBM — What is Data Science?
+* Microsoft — Python & AI Bootcamp
+* Best Project Recognition — Kreativity 2.0 Project Expo (KIIT DU)
+* HP Power Lab & Tata Imagination Challenge 2024
+
+---
+
+# 🤝 Open to Collaborations
+
+I’m always interested in collaborating on:
+
+* AI / ML research projects
+* Open-source ML systems
+* Generative AI applications
+* Real-time AI infrastructure
+
+⭐ If you like my work, consider **starring my repositories**!
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" />
+
+</p>
