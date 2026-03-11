@@ -214,25 +214,13 @@ H --> I[Live Captions / Output]
 
 <p align="center">
 
-<a href="https://github.com/deephabiswashi/Vasha-AI">
+<a href="https://github.com/deephabiswashi/Vasha-AI.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=deephabiswashi&repo=Vasha-AI&theme=radical" />
 </a>
 
-<a href="https://github.com/deephabiswashi/mongodb-manager-web-app">
+<a href="https://github.com/deephabiswashi/mongodb-manager-web-app.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=deephabiswashi&repo=mongodb-manager-web-app&theme=radical" />
 </a>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deephabiswashi&show_icons=true&theme=radical" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deephabiswashi&layout=compact&theme=radical" />
 
 </p>
 
